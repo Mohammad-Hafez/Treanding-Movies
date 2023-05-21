@@ -1,7 +1,7 @@
-import AllCategories from '@/components/Categories'
+import AllCategories from '@/components/AllCategories'
 import React from 'react'
 
-export default function index() {
+export default function Categories() {
   return <>
   <AllCategories/>
   </>
